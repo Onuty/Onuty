@@ -1,1 +1,1 @@
-![Onuty](https://github-readme-stats-eight-iota-36.vercel.app/api?username=onuty&theme=default&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Onuty&show_icons=true&theme=default)
