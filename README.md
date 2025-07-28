@@ -1,3 +1,4 @@
-| GitHub Stats | Top Languages |
-|:-----------:|:-------------:|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Onuty&show_icons=true&theme=default) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onuty)](https://github.com/Onuty/github-readme-stats) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Onuty&show_icons=true&theme=default" alt="GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onuty" alt="Top Langs" width="45%" />
+</p>
